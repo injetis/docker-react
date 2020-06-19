@@ -10,6 +10,14 @@ function App() {
         <p>
           Hi there . I was changed in the feature branch
         </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
